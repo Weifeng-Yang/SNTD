@@ -11,6 +11,6 @@ For "L0SNTD", before running it, first add the toolbox 'tensortoolbox'[<sup>2</s
 
 ## Reference
 <div id="refer-id"></div>
-[1] Yang W, Min W, et.al. An Accelerated Alternating Proximal method for Sparse Nonnegative Tucker Decomposition with $\ell_0$-constraints.
+[1] Yang W, Min W, et.al. An Accelerated Alternating Proximal method for Sparse Nonnegative Tucker Decomposition with ℓ0-constraints.
 
 [2] Brett W. Bader and Tamara G. Kolda. 2006. Algorithm 862: MATLAB tensor classes for fast algorithm prototyping. ACM Trans. Math. Softw. 32, 4 (December 2006), 635–653. https://doi.org/10.1145/1186785.1186794
